@@ -1,0 +1,72 @@
+
+-htmlpurifier_attrdef_css_alphavalue::validate–
+‹C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\AttrDef\CSS\AlphaValue.php
+ 
+("1*Å
+2–
+‹C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\AttrDef\CSS\AlphaValue.php (."¦
+–
+‹C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\AttrDef\CSS\AlphaValue.php (.
+	
+$result*ð
+3–
+‹C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\AttrDef\CSS\AlphaValue.php (!Æ
+Ã
+–
+‹C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\AttrDef\CSS\AlphaValue.php ( 
+$float"__sanitizing_cast*
+	
+$result*	
+4
+6
+7*Û
+4–
+‹C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\AttrDef\CSS\AlphaValue.php ((´
+±
+–
+‹C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\AttrDef\CSS\AlphaValue.php ('	
+$result"__id*
+0*
+6
+7*Ø
+6–
+‹C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\AttrDef\CSS\AlphaValue.php ((´
+±
+–
+‹C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\AttrDef\CSS\AlphaValue.php ('	
+$result"__id*
+1*
+7*Å
+7–
+‹C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\AttrDef\CSS\AlphaValue.php ("¦
+–
+‹C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\AttrDef\CSS\AlphaValue.php (
+	
+$result*ý
+1–
+‹C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\AttrDef\CSS\AlphaValue.php (?ž
+›
+–
+‹C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\AttrDef\CSS\AlphaValue.php (>
+%1")htmlpurifier_attrdef_css_number::validate*'%
+#htmlpurifier_attrdef_css_alphavalue*
+	
+$number*
+	
+$config*
+
+
+$contextµ
+²
+–
+‹C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\AttrDef\CSS\AlphaValue.php (>	
+$result"__id*
+
+%1*
+2
+3:	
+$number:	
+$config:
+
+$contextB'%
+#htmlpurifier_attrdef_css_alphavalue

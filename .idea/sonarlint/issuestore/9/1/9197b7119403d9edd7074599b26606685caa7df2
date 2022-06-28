@@ -1,0 +1,13 @@
+
+d	php:S1192
+"ODefine a constant instead of duplicating this literal "___mysqli_ston" 6 times.(–Æƒ¨
+[	php:S1192"FDefine a constant instead of duplicating this literal ":user" 5 times.(·í¦æ
+p	php:S3923
+"[Remove this conditional structure or edit its code blocks so that they're not all the same.(–Æƒ¨
+u	php:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ù±¶Îÿÿÿÿÿ
+>	php:S1125<")Remove the literal "false" boolean value.(æ­¢ö
+Y	php:S3358
+"DExtract this nested ternary operation into an independent statement.(–Æƒ¨
+^	php:S3358"DExtract this nested ternary operation into an independent statement.(ù±¶Îÿÿÿÿÿ
+3php:S125'"Remove this commented out code.(–±Ù
+3php:S1250"Remove this commented out code.(¹Ûéì

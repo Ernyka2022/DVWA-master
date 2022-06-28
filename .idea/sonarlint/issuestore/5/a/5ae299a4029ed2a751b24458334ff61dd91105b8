@@ -1,0 +1,7 @@
+
+i	php:S1301"MReplace this "switch" statement with "if" statements to increase readability.(èĞúı8ËÁåú™0
+p	php:S1192"ODefine a constant instead of duplicating this literal "___mysqli_ston" 4 times.(®–åüÿÿÿÿ8ÑÁåú™0
+e	php:S3358"DExtract this nested ternary operation into an independent statement.(®–åüÿÿÿÿ8ÑÁåú™0
+9php:S125"Remove this commented out code.(¶½ªA8ÒÁåú™0
+?php:S125 "Remove this commented out code.(­ÍÖÑùÿÿÿÿ8ÒÁåú™0
+Rphp:S131"7Add a "case default" clause to this "switch" statement.(èĞúı8ÓÁåú™0

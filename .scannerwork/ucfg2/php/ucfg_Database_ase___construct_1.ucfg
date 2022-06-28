@@ -1,0 +1,53 @@
+
+!ids_caching_database::__constructm
+cC:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\Caching\Database.phpq q("1*š
+2
+Database.php"„
+m
+cC:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\Caching\Database.phpw w(
+implicit return*¾
+1m
+cC:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\Caching\Database.phpt t(¥
+¢
+m
+cC:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\Caching\Database.phpt t( 
+ids_caching_database"
+type"__id*	
+
+$type•
+’
+m
+cC:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\Caching\Database.phpu u(%
+%1"__id**
+
+$init"
+config—
+”
+m
+cC:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\Caching\Database.phpu u(0
+%2"__mapGet*
+
+%1*	
+Caching¤
+¡
+m
+cC:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\Caching\Database.phpu u(0"
+ids_caching_database"
+config"__id*
+
+%2œ™
+m
+cC:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\Caching\Database.phpv v()
+%3*
+ids_caching_database2_connect¤
+¡
+m
+cC:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\Caching\Database.phpv v()"
+ids_caching_database"
+handle"__id*
+
+%3*
+2:
+$type:
+$initB
+ids_caching_database

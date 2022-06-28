@@ -1,0 +1,4 @@
+
+i	php:S1301"MReplace this "switch" statement with "if" statements to increase readability.(èÐúý8ºÎ€ü™0
+?php:S125"Remove this commented out code.(­ÍÖÑùÿÿÿÿ8»Î€ü™0
+Rphp:S131"7Add a "case default" clause to this "switch" statement.(èÐúý8»Î€ü™0

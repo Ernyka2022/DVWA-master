@@ -1,0 +1,10 @@
+
+e	php:S1192
+"PDefine a constant instead of duplicating this literal "___mysqli_ston" 10 times.(–Æƒ¨
+p	php:S3923
+"[Remove this conditional structure or edit its code blocks so that they're not all the same.(–Æƒ¨
+u	php:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ù±¶Îÿÿÿÿÿ
+Y	php:S3358
+"DExtract this nested ternary operation into an independent statement.(–Æƒ¨
+^	php:S3358"DExtract this nested ternary operation into an independent statement.(ù±¶Îÿÿÿÿÿ
+^	php:S3358"DExtract this nested ternary operation into an independent statement.(®–åüÿÿÿÿ

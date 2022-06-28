@@ -1,0 +1,58 @@
+
+*htmlpurifier_injector_removeempty::prepare”
+‰C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\Injector\RemoveEmpty.php ("1*Å
+2
+RemoveEmpty.php"¬
+”
+‰C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\Injector\RemoveEmpty.php (
+implicit return*Þ
+1”
+‰C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\Injector\RemoveEmpty.php	 	(+‚
+ÿ
+”
+‰C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\Injector\RemoveEmpty.php	 	(*
+%1"htmlpurifier_injector::prepare*%#
+!htmlpurifier_injector_removeempty*
+	
+$config*
+
+
+$contextÞ
+Û
+”
+‰C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\Injector\RemoveEmpty.php
+ 
+(/#
+!htmlpurifier_injector_removeempty"
+config"__id*
+	
+$configà
+Ý
+”
+‰C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\Injector\RemoveEmpty.php (!0#
+!htmlpurifier_injector_removeempty"	
+context"__id*
+
+
+$context¼¹
+”
+‰C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\Injector\RemoveEmpty.php (?
+%2"htmlpurifier_attrvalidatorÑ
+Î
+”
+‰C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\Injector\RemoveEmpty.php (?
+%3"'htmlpurifier_attrvalidator::__construct*
+
+%2à
+Ý
+”
+‰C:\Users\Administrator\Downloads\Sonar\DVWA-master\external\phpids\0.6\lib\IDS\vendors\htmlpurifier\HTMLPurifier\Injector\RemoveEmpty.php (?6#
+!htmlpurifier_injector_removeempty"
+attrValidator"__id*
+
+%2*
+2:	
+$config:
+
+$contextB%#
+!htmlpurifier_injector_removeempty
